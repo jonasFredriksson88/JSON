@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "FirstName": "Jonas",
+        "LastName": "Fredriksson",
+        "PersonalNumber": 198804145517,
+        "TelephoneNumber": "+46768188891",
+        "Avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+    },
+    {
+        "Id": 2,
+        "FirstName": "Laiza",
+        "LastName": "Fredriksson",
+        "PersonalNumber": 199106174460,
+        "TelephoneNumber": "+46729387382",
+        "Avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+    },
+    {
+        "Id": 3,
+        "FirstName": "Lova",
+        "LastName": "Fredriksson",
+        "PersonalNumber": 202305264422,
+        "TelephoneNumber": "+46722684923",
+        "Avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+    }
+]
